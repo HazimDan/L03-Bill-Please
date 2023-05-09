@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Bill Please</string>
+    <string name="title">Payment Split</string>
+    <string name="amount">Amount to pay:</string>
+    <string name="amountHint">Enter amount</string>
+    <string name="noOfpax">Number of pax:</string>
+    <string name="noOfpaxHint">Enter no. of pax</string>
+    <string name="svsEnabled">SVS</string>
+    <string name="svsDisabled">NO SVS</string>
+    <string name="gstDisabled">NO GST</string>
+    <string name="gstEnabled">GST</string>
+    <string name="discount">Discount: (%)</string>
+    <string name="cash">Cash</string>
+    <string name="paynow">PayNow</string>
+    <string name="number">Phone number:</string>
+    <string name="ifUsingPaynow">(if using PayNow)</string>
+    <string name="split">Split</string>
+    <string name="reset">Reset</string>
+    <string name="total">Total Bill:</string>
+    <string name="displayTotal">Displaying Total Bill</string>
+    <string name="eachPays">Each Pays:</string>
+    <string name="displayEachPays">Displaying the amount each pays</string>
+</resources>
